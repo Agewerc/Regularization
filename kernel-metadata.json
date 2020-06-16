@@ -1,0 +1,13 @@
+{
+  "id": "agewerc/salarysoccerprediction",
+  "title": "salarysoccerprediction",
+  "code_file": "salarySoccerPrediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": ["stefanoleone992/fifa-20-complete-player-dataset"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
